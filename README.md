@@ -28,7 +28,7 @@
 * `pkg install python2 -y`
 * `pkg install git -y`
 * `pip install lolcat`
-* `git clone https://github.com/noob-hackers/ighack`
+* `git clone https://github.com/hackersblackhatlk/Instagramm-Hack-Termex.git`
 * `cd $HOME`
 * `ls`
 * `cd ighack`
